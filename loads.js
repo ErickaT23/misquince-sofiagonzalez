@@ -35,7 +35,7 @@ window.guests = [
   { id: "31", name: "Aura Liseth Galicia", passes: 1 },
   { id: "32", name: "Maria Isabel Pedroza", passes: 1 },
   { id: "33", name: "Angela Pineda", passes: 2 },
-  { id: "34", name: "Shirley Guillen", passes: 3 }
+  { id: "34", name: "Sherlyn Guillen", passes: 3 }
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
