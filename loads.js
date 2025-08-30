@@ -35,7 +35,13 @@ window.guests = [
   { id: "31", name: "Aura Liseth Galicia", passes: 1 },
   { id: "32", name: "Maria Isabel Pedroza", passes: 1 },
   { id: "33", name: "Angela Pineda", passes: 2 },
-  { id: "34", name: "Sherlyn Guillen", passes: 3 }
+  { id: "34", name: "Sherlyn Guillen", passes: 3 },
+  { id: "35", name: "Leiser González", passes: 1 },
+  { id: "36", name: "Víctor Romero", passes: 1 },
+  { id: "37", name: "Yulianna Salvatierra", passes: 1 },
+  { id: "38", name: "Nancy Monroy", passes: 1 },
+  { id: "39", name: "Francisco Calimayor", passes: 1 },
+  { id: "40", name: "Carlos Maldonado ", passes: 1 }
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
